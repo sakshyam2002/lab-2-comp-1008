@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Unnamed (1)" type="ComposePreviewRunConfiguration" editBeforeRun="true" singleton="false">
+  <configuration default="false" name="lab 2" type="ComposePreviewRunConfiguration" editBeforeRun="true" singleton="false">
     <module name="lab2" />
     <option name="DEPLOY" value="true" />
     <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
